@@ -1,0 +1,11 @@
+Random module contains functions for generating random numbers or selecting random items 
+from lists.
+
+syntax
+import random
+
+this tells python to load the built in random module.
+without this i cannot use random.choice() later in script.
+
+The sequence can be a string, a range, a list, a tuple or any other kind of sequence.
+ß
