@@ -1,0 +1,12 @@
+Descision_tyoes = { , , , } 
+creates a dictionaty in python
+
+Keys are the words ; value are its meaning
+
+dictionary items are usually ordered. wuth the 3.7 update.. 
+this means that they will be in the order that i wrtie them in,=. so becareful writing items
+
+unordered means the items do not have
+
+duplicate Keys are not allowed
+
